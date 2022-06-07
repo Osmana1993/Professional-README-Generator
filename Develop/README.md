@@ -14,6 +14,11 @@
   need to install node.js
   ## Usage:
   ansewr the questions 
+  
+
+https://user-images.githubusercontent.com/100746995/172278297-a31f5319-4588-403c-9cd4-66055955dd96.mp4
+
+
   ## License:
   
   ## Contribution:
