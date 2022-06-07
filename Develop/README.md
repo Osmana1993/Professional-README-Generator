@@ -1,4 +1,4 @@
-# e;urighiu
+# Proffesional README Generator
   ## Licensing:
   [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
   ## Table of Contents 
@@ -9,17 +9,17 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  egs
+  command line application tha dynamicly geneates a proffestional README from user's input using the inquirer package.
   ## Installation:
-  srth
+  need to install node.js
   ## Usage:
-  serht
+  ansewr the questions 
   ## License:
   
   ## Contribution:
-  srth
+  under license 
   ## Testing:
-  strh
+  after ansewr the question push to github and refresh the page will see in README file
   ## Additional Info:
   - Github: [osmana1993](https://github.com/osmana1993)
-  - Email:  
+  - Email: othmanalialamin@gmail.com 
